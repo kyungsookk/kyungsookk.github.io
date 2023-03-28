@@ -1,42 +1,44 @@
-# kyungsookk.github.io
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-	<meta name="renderer" content="webkit" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=1100">
-<base href="https://www.bilibili.com/video">
-	<meta charset="utf-8">
-	<base target="https://www.bilibili.com/video">
-<title>个人简介</title>
-<meta name="keywords" content="新闻传播学院">
-<meta name="description" content="新闻传播学院" >
-<meta name="description" content="基本信息姓名:蔡乐怡性别：女学校：南开大学，本科在读专业:新闻传播学" />
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
-<link type="text/css" href="/_upload/site/1/style/6/6.css" rel="stylesheet"/>
-<link type="text/css" href="/_upload/site/01/19/281/style/276/276.css" rel="stylesheet"/>
-<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
-<link type="text/css" href="/_js/_portletPlugs/datepicker/css/datepicker.css" rel="stylesheet" />
-<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>kyungsookk.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="kyungsookk.github.io" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://kyungsookk.github.io/" />
+<meta property="og:url" content="https://kyungsookk.github.io/" />
+<meta property="og:site_name" content="kyungsookk.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="kyungsookk.github.io" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"kyungsookk.github.io","name":"kyungsookk.github.io","url":"https://kyungsookk.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
 
-<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteId="281"></script>
-<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
-<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
-<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/jquery.datepicker.js"></script>
-<script type="text/javascript" src="/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js"></script>
-<link rel="stylesheet" href="/_upload/tpl/02/8f/655/template655/style.css" type="text/css" />
-<link href="/_upload/tpl/02/8f/655/template655/images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
-<link rel="stylesheet" href="/_upload/tpl/02/8f/655/template655/css/custom/wp_search.css" type="text/css" media="all" />
-<!--[if lt IE 9]>
-	<script src="/_upload/tpl/02/8f/655/template655/extends/libs/html5.js">
-</script>
-<![endif]-->
-</head>
+    <link rel="stylesheet" href="/assets/css/style.css?v=c0dae71794d6ba1ce1758537142a527402900909">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-<body>
-                    <h2 class="arti_title">
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+
+      <h1 id="kyungsookkgithubio">kyungsookk.github.io</h1>
+            <h2 class="arti_title">
                         
                     </h2>
                     <p class="arti_metas">
@@ -48,4 +50,12 @@
 						</div>
                     </div>
 </p></body>
+</html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
 </html>
