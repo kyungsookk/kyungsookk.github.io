@@ -1,4 +1,4 @@
-<个人简介>
+<!doctype html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -49,7 +49,7 @@
 							  </span></strong></p><p><br /></p></td></tr></tbody></table></div>
 						</div>
                     </div>
-</p></body>
+</span>/p></body>
 </html>
 
 
