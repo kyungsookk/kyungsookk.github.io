@@ -32,7 +32,10 @@
 <!-- end custom head snippets -->
 
   </head>
- body {
+<body>
+
+<style type="text/css">
+body {
 	background-image: url(https://jc.nankai.edu.cn/_upload/article/images/89/38/0a58856b42f89ebdbbe02e191195/45614fbf-570a-4361-9e36-f72c25a71113.jpg);
 }
 </style>
@@ -58,6 +61,7 @@
 
 </body>
 </html>
+
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
